@@ -8,7 +8,7 @@ output: html_notebook
 ## Assigned Exercises
 
 - DC Chapter 13 Exercises: All 
-- DC Chapter 16 Exercises:
+- DC Chapter 16 Exercises: All
 
 ## Front Matter
 
@@ -131,4 +131,12 @@ ymd("1998-12-14")-
   mdy("July 28th, 1914")
 ```
 ### Problem 16.2
-
+a.)as.numeric
+b.)readr.parse_number()
+c.)nither 
+d.)readr.parse_number
+e.)readr.parse_number
+f.)neither
+g.)neither
+h.)neither
+i.)neither
