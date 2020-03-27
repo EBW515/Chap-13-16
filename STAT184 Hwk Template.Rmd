@@ -130,13 +130,21 @@ e.)
 ymd("1998-12-14")-
   mdy("July 28th, 1914")
 ```
+
+
 ### Problem 16.2
-a.)as.numeric
-b.)readr.parse_number()
-c.)nither 
-d.)readr.parse_number
-e.)readr.parse_number
-f.)neither
-g.)neither
-h.)neither
-i.)neither
+```{r}
+1.) as.numeric
+2.) readr.parse_number()
+3.) nither 
+4.) readr.parse_number
+5.) readr.parse_number
+6.) neither
+7.) neither
+8.) neither
+9.) neither
+
+```
+
+
+
